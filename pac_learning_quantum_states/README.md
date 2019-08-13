@@ -25,6 +25,10 @@ python3 main.py
 
 This project is licensed under the MIT License.
 
+## Acknowledgements
+
+Thanks to Andrea Rocchetto for getting me started on this project.
+
 ## Contact
 
 Open an issue with any questions/comments.

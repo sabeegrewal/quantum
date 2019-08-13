@@ -1,0 +1,12 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </value>
+    </option>
+    <ScalaCodeStyleSettings>
+      <option name="FORMATTER" value="1" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
